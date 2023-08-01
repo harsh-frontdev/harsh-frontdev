@@ -1,2 +1,1 @@
-# harsh-fronedev
-My personal Repo
+Hi, I'm Harsh Prajapti
