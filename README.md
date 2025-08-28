@@ -9,9 +9,9 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<
 <p>
 - 🌐 Currently working as a <b>Front-End Developer</b><br/>
 - ⚡ Strong in <b>JavaScript</b>, HTML, CSS, and modern frameworks  <br/>
-- 🎯 Secondary skills: Webflow, WordPress, and Bootstrap  <br/>
+- 🎯 Secondary skills: Webflow, WordPress, Bootstrap, Tailwind and Elementor  <br/>
 - 🎨 Design tools: Figma & Adobe XD  <br/>
-- 📚 Currently, I’m expanding my skill set by <b>learning React JS</b> to strengthen my front-end development capabilities.
+- 📚 Currently, I’m expanding my skill set by <b>learning React JS & Typescript</b> to strengthen my front-end development capabilities.
 </p>
 
 ---
@@ -28,6 +28,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/elementor-%2392003B.svg?&style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
 ---
