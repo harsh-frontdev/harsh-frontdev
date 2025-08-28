@@ -11,7 +11,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<
 - ⚡ Strong in <b>JavaScript</b>, HTML, CSS, and modern frameworks  <br/>
 - 🎯 Secondary skills: Webflow, WordPress, and Bootstrap  <br/>
 - 🎨 Design tools: Figma & Adobe XD  <br/>
-- 📚 Constantly learning and exploring new front-end technologies  <br/>
+- 📚 Currently, I’m expanding my skill set by <b>learning React JS</b> to strengthen my front-end development capabilities.
 </p>
 
 ---
