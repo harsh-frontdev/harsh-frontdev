@@ -1,18 +1,18 @@
 <h3>👋 Hi, I'm Harsh Prajapati</h3>  
 
-<sub>💻 Front-End Developer passionate about crafting modern, responsive, and user-friendly web experiences.  
-I enjoy turning complex problems into simple, beautiful, and intuitive designs.</sub>  
+<p>💻 Front-End Developer passionate about crafting modern, responsive, and user-friendly web experiences.  <br/>
+I enjoy turning complex problems into simple, beautiful, and intuitive designs.</p>  
 
 ---
 
 <h4>👨‍💻 About Me</h4>  
-<sub>  
-- 🌐 Currently working as a <b>Front-End Developer</b>  
-- ⚡ Strong in <b>JavaScript</b>, HTML, CSS, and modern frameworks  
-- 🎯 Secondary skills: Webflow, WordPress, and Bootstrap  
-- 🎨 Design tools: Figma & Adobe XD  
-- 📚 Constantly learning and exploring new front-end technologies  
-</sub>  
+<p>
+- 🌐 Currently working as a <b>Front-End Developer</b><br/>
+- ⚡ Strong in <b>JavaScript</b>, HTML, CSS, and modern frameworks  <br/>
+- 🎯 Secondary skills: Webflow, WordPress, and Bootstrap  <br/>
+- 🎨 Design tools: Figma & Adobe XD  <br/>
+- 📚 Constantly learning and exploring new front-end technologies  <br/>
+</p>
 
 ---
 
@@ -33,7 +33,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<
 ---
 
 <h4>📂 Projects</h4>  
-<sub>🚧 Coming Soon – Showcasing my best work here!</sub>  
+<small>🚧 Coming Soon – Showcasing my best work here!</small>  
 
 ---
 
