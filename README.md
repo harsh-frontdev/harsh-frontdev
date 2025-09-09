@@ -45,6 +45,6 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<
   <a href="mailto:harshp.0009@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/harsh-prajapati-3a9b8595/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/harsh9173" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://codepen.io/harsh-frontdev" target="_blank"><img alt="Codepen" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/CodePen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)" /></a>
+  <a href="https://codepen.io/harsh-frontdev" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
 
