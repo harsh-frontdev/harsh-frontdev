@@ -67,9 +67,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.<
 <h4>📊 GitHub Stats</h4>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-frontdev&show_icons=true&theme=dark&hide_border=false" alt="Harsh's GitHub Stats" height="195" />
   <img src="https://streak-stats.demolab.com/?user=harsh-frontdev&theme=dark&hide_border=false" alt="Harsh's GitHub Streak" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-frontdev&theme=dark&hide_border=false&layout=compact" alt="Harsh's Top Languages" />
 </p>
 
 ---
